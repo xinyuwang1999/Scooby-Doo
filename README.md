@@ -14,3 +14,7 @@ variable. The dataset contains 75 columns. Since Scooby-Doo is a popular show in
 reflect whether the audiences like or dislike the show. Therefore, in this project, I will explore some factors that may be related to 
 the IMDB rating for Scooby-Doo.
 
+
+<https://scoobydoo.fandom.com/wiki/Scoobypedia>
+
+<https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-13/readme.md>
